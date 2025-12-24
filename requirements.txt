@@ -1,0 +1,23 @@
+# Core ML Libraries
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# NLP Processing
+nltk>=3.8.1
+
+# Web Framework
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.17.0
+
+# Data Download
+kagglehub>=0.2.0
+
+# File Processing (Optional, for file upload support)
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+
+# Development/Utility
+python-dotenv>=1.0.0
